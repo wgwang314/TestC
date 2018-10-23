@@ -23,6 +23,7 @@ int main()
 			printf("*");
 			printf("\n");
 	}
+	printf("结束\n");
     system("pause");
     return 0;
 }
